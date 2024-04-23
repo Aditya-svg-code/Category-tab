@@ -5,5 +5,9 @@ Using Shopify API to fetch the product details <br> <br>
 
 <img src = "/icon/Screenshot 2024-04-24 043943.png">
 <br>
+<img src = "/icon/Screenshot 2.png">
+<br>
+<img src = "/icon/Screenshot 3.png">
+<br>
 
 <b>Thank You</b>
